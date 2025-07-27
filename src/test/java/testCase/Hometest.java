@@ -43,7 +43,7 @@ public class Hometest {
 		RegisterPage rp =new RegisterPage(driver);
 		rp.enterfirstname("Abhijeet");
 		rp.enterlastname("chavan");
-		rp.enteremail("dmnsk2mdk42mvsbbrd2434@dmail.com");
+		rp.enteremail("dmnsk2rsmvsbbrd2434@dmail.com");
 		rp.telephone("1332434552");
 		rp.enterpassword("Danao@13wd3442");
 		rp.enterconfirmpassword("Danao@13wd3442");
